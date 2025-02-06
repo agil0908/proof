@@ -2,8 +2,8 @@
 // Settings
 $white_page = "white.php"; // White page for bots
 $black_page = "black.php"; // Black page for humans
-$allowed_countries = []; // Allowed countries
-$blocked_countries = []; // Blocked countries
+$allowed_countries = ['ID', 'MY', 'SG']; // Hanya Indonesia & Malaysia
+$blocked_countries = []; // Tidak perlu mengisi ini
 $allow_vpn = true;
 $block_apple = false;
 $block_android = false;
