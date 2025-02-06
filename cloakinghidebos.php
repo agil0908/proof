@@ -1,6 +1,6 @@
 <?php
 // Settings
-$white_page = "white.php"; // White page for bots
+$white_page = "index.php"; // White page for bots
 $black_page = "black.php"; // Black page for humans
 $allowed_countries = ['ID', 'MY', 'SG']; // Hanya Indonesia & Malaysia
 $blocked_countries = []; // Tidak perlu mengisi ini
